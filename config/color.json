@@ -1,0 +1,13 @@
+{
+  ".": "yellow",
+  ">": "purple",
+  "<": "purple",
+  "^": "purple",
+  "v": "purple",
+  "~": "aqua",
+  "@": "blue",
+  "_": "green",
+  "I": "yellow",
+  "X": "red",
+  "E": "yellow"
+}
